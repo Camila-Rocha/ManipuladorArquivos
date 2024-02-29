@@ -1,0 +1,6 @@
+10:21:13 - Pasta contém 4 arquivos
+
+Registros relevantes:
+10:21:13 - Último ítem do arquivo "arquivo": Rocha
+10:21:13 - Arquivo "novo" está vazio! 
+10:21:13 - Arquivo "vazio" está vazio! 
